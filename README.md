@@ -1,27 +1,10 @@
 # PHP-CRUD-MVC-PDO with AJAX
-This project contains basic structure for architecture [MVC (Model, view & controller)](https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html) implement in the [language of programmation PHP](https://www.php.net/) with [management of database mysql](https://www.mysql.com/).   
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/87ac6d87-b051-42e4-8d5b-4587d1176f07)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/3898596d-af24-4d69-89b1-1f891e13166d)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/62d84377-f8b6-4bff-891e-98d6e363583a)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/6db60e48-e26b-4236-ac01-2a842057b380)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/42bcb055-c9cf-4429-abd3-d9e54949da5b)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/d7856a73-ca71-44c2-8f85-5394da8fa363)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/8ba0a551-ebff-466c-b315-cd372d142370)
+![image](https://github.com/DylanLozanoAvelar/MCV_v2_pemex/assets/143743272/22c36017-f266-4f3d-b6ba-8639ac59ae84)
 
-![Example MVC](https://www.c-sharpcorner.com/article/mvc-beginners-tutorial-with-bootstrap/Images/image001.png)  
-
-## Installation & test 📥
-To the right functioning you need install services of Apache and Mysql or install a local server for example.
-  
-* [xampp](https://www.apachefriends.org/download.html)  
-* [wampserver](http://www.wampserver.com/en/#download-wrapper)
-
-Execute services of Apache and Mysql.
-
-### Database 💾
-Once executed apache & mysql service you need `create database 'crud'` and import `.sql file` located in folder `SQL DB/crud.sql`. 
-
-### Test 🧪 
-To test project you need to go to the URL of the local server is usually `http://localhost/` o `http://127.0.0.1/`
-
-#### Warning ⚠️
-**_This is an old project that contains some good development practices but can be greatly improved._**
-
-## Example
-You can see a better implementation of this structure in this repository [php7-architecture-MVC-CRUD](https://github.com/ofaaoficial/php7-architecture-MVC-CRUD)
-
-## License 🔥
-Copyright © 2017-present [Oscar Amado](https://github.com/ofaaoficial) 🧔
